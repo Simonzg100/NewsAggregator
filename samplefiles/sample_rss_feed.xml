@@ -1,0 +1,10 @@
+    <rss version="2.0">
+        <title>Hw6 Sample RSS Feed</title>
+        <description>Sample RSS feed for CIT5940 news aggregator</description>
+        <link>https://www.seas.upenn.edu/~cit5940/page1.html</link>
+        <link>https://www.seas.upenn.edu/~cit5940/page2.html</link>
+        <link>https://www.seas.upenn.edu/~cit5940/page3.html</link>
+        <link>https://www.seas.upenn.edu/~cit5940/page4.html</link>
+        <link>https://www.seas.upenn.edu/~cit5940/page5.html</link>
+
+</rss>
